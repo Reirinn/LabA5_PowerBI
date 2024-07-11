@@ -16,3 +16,10 @@ Insert annotations, navigation buttons to your report.
 
 # Proposed Solution using PowerBi :
 
+![image](https://github.com/Reirinn/LabA5_PowerBI/assets/142465054/3e75aaaa-c5fb-4cc6-ace2-6c894f348a49)
+
+For full view and seamless interaction with the presentation, you can access my PowerBI presentation through : https://app.powerbi.com/view?r=eyJrIjoiMGNhYzZjMWItZTIwZi00Y2JmLWFhYzctMDY0NzE2NDljNDhmIiwidCI6IjFjZTU4ZDUyLWNiZmEtNDRlMi05NzVhLTRjYWM5NjdjZTZhMSIsImMiOjEwfQ%3D%3D 
+
+
+
+
