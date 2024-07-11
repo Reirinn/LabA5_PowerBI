@@ -1,4 +1,4 @@
-# Average Number of Times the Student Access The Course
+# Average Number of Times the Student Access The Course Report
 
 Help the CS Professor to identify the high/low/medium user of ProfElec4 Course.
 
